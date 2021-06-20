@@ -1,0 +1,14 @@
+
+###
+GET http://localhost:8080/client_info
+
+<> 2021-06-21T011916.200.txt
+<> 2021-06-21T011403.500.json
+
+###
+GET http://localhost:8080/server_info
+
+<> 2021-06-21T011926.200.txt
+<> 2021-06-21T011441.200.txt
+
+###
